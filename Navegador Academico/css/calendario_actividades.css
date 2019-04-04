@@ -1,0 +1,42 @@
+ol{
+    padding-left: 720px;
+    list-style-type: upper-roman;
+}
+*{
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+body{
+    background:#ECEDEF;
+}
+div{
+    
+    font-size:10px;
+    background:#339fc3;
+    color:white;
+    height: 50px;
+
+}
+
+h2{color:orange}
+
+button{
+    color:white;
+    background: rgb(103, 162, 250);
+    border-bottom-style: double;
+    box-shadow: 1px 1px 1px 1px #ccc;
+
+}
+
+table td{ background: white;
+    
+}
+
+table td:hover{
+
+    background: grey;
+}
+table{
+    
+    box-shadow: 5px 5px 5px 5px #ccc;
+    
+    }

@@ -1,0 +1,62 @@
+body{background:#ECEDEF;}
+*{
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+h2{color:orange;}
+div{
+    
+    font-size:10px;
+    background:#339fc3;
+    color:white;
+    height: 50px;
+
+}
+button{
+    color:white;
+    background: rgb(103, 162, 250);
+    border-bottom-style: double;
+    box-shadow: 1px 1px 1px 1px #ccc;
+
+}
+ol{
+    padding-left: 550px;
+    list-style-type: upper-roman;
+}
+#celdaficha{
+    padding-left: 20px;
+    font-size: 18px;
+
+}
+table td{ background: white;
+    
+}
+.lineasup{
+    color: white;
+    background: #29588c;
+    padding-left: 10px;
+}
+.clave{
+    color: rgb(65, 179, 199);
+    font-size: 13px;
+    padding-left: 10px;
+}
+.asignatura{
+    padding-left: 10px; 
+}
+.inscripcionesvigentes{
+    padding-left: 100px;
+    font-size: 20px;
+    color: #29588c;
+}
+#asignaturascursadas{
+
+    padding-left: 70px;
+}
+#inscripciones{
+    background: rgb(0, 0, 0);
+
+}
+table{
+    box-shadow: 5px 5px 5px 5px #ccc;
+    
+    }

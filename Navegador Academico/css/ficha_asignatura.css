@@ -1,0 +1,27 @@
+body{background:#ECEDEF;}
+*{
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+div{
+    
+    font-size:10px;
+    background:#339fc3;
+    color:white;
+    height: 50px;
+
+}
+
+h2{
+    color:orange;
+}
+
+button{
+    color:white;
+    background: rgb(103, 162, 250);
+    border-bottom-style: double;
+    box-shadow: 1px 1px 1px 1px #ccc;
+
+}
+#descripcion{
+    weight: 700px;
+}
