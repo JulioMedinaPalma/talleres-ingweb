@@ -56,5 +56,9 @@
 
 **Content-Type**: Indica el tipo de medio del recurso .
 
+**location**: Indica la URL a la que debe redirigir una página determinada.
+
+**upgrade**:  Es un Estándar de Internet Propuesto, establece reglas para la actualización o cambios a un protocolo diferente en el cliente, servidor, o protocolo de conexiones actuales.
+
 
 
