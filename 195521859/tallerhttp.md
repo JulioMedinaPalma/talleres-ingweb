@@ -26,5 +26,35 @@
 
 **5) Header**: Las cabeceras HTTP permiten al cliente y al servidor enviar información adicional junto a una petición o respuesta.
 
+**6) Headers**
+
+**Accept**: Informa al servidor sobre los diferentes tipos de datos que pueden enviarse de vuelta. Es de tipo MIME.
+
+**Accept-Charse**: Informa al servidor sobre el set de caracteres que el cliente puede entender.
+
+**Accept-Encoding**: Informa al servidor sobre el algoritmo de codificación, habitualmente un algoritmo de compresión, que puede utilizarse sobre el recurso que se envíe de vuelta en la respuesta.
+
+**Cache-Control**:Especifica directivas para los mecanismos de almacenamiento en caché, tanto para peticiones como para respuestas.
+
+**Connection**: Controla si la conexión a la red se mantiene activa después de que la transacción en curso haya finalizado.
+
+**Cookie**: Contiene HTTP cookies penviadas previamente por el servidor con la cabecera Set-Cookie .
+
+**Set-Cookie**: Envia cookies desde el servidor al usuario.
+
+**Host**: Especifica el nombre de dominio del servidor (para alojamiento virtual), y (opcionalmente) el número de puerto TCP en el que está escuchando el servidor.
+
+**Origin**: Indica el punto de origen de una petición de recogida.
+
+**Referer**: Indica la dirección de la página web previa desde la cual un link nos ha redirigido a la actual.
+
+**User-Agent**: Contiene un string característico que será examinado por el protocolo de red para identificar el tipo de aplicación, sistema operativo, proveedor de software o versión del software del agente de software que realiza la petición.
+
+**Content-Encoding**: Utilizado para indicar el algoritmo de compresión.
+
+**Content-Length**: Indica el tamaño del cuerpo del recurso, expresado en números decimales de octetos, que ha sido enviado al recipiente.
+
+**Content-Type**: Indica el tipo de medio del recurso .
+
 
 
